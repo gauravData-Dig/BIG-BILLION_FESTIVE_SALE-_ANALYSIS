@@ -18,4 +18,18 @@ Beyond EDA, the project establishes a foundation for advanced applications such 
 
 By combining technical rigor with actionable business insights, this project demonstrates how data-driven analysis can enhance decision-making and create measurable value in the retail sector.
 
-⚡ This version is executive-level professional: structured, co
+✨ Project Highlights-
+
+📊 Exploratory Data Analysis (EDA) on Big Billion Festival (Diwali) sales data
+
+👩‍🦰 Female buyers aged 26–35 identified as the top customer segment
+
+🌍 State-wise and occupation-based insights for targeted business strategies
+
+🛍️ Clothing, footwear, and electronics dominate product sales
+
+🐍 Built with Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+📈 Provides actionable insights for marketing, inventory, and revenue growth
+
+🚀 Foundation for predictive modeling, recommendation systems, and dashboards
